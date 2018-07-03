@@ -1,0 +1,22 @@
+{
+  "name": "graphql-practice",
+  "version": "1.0.0",
+  "description": "Graphql practice from howtographql.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/belkisac/graphql-practice.git"
+  },
+  "author": "Belkisa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/belkisac/graphql-practice/issues"
+  },
+  "homepage": "https://github.com/belkisac/graphql-practice#readme",
+  "dependencies": {
+    "graphql-yoga": "^1.14.10"
+  }
+}
